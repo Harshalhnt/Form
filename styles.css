@@ -1,0 +1,115 @@
+h1 {
+  position: absolute;
+  width: 105px;
+  height: 19px;
+  left: 913px;
+  top: 232px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+}
+h2 {
+  position: absolute;
+  width: 292px;
+  height: 35px;
+  left: 913px;
+  top: 253px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 35px;
+}
+.pass {
+  position: absolute;
+  width: 292px;
+  height: 535px;
+  left: 913px;
+
+  top: 320px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+}
+.email {
+  position: absolute;
+  top: 635;
+  width: 292px;
+  height: 535px;
+  left: 913px;
+
+  top: 370px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+}
+.remember {
+  position: absolute;
+  top: 435;
+  width: 292px;
+  height: 535px;
+  left: 913px;
+
+  top: 420px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+}
+.login {
+  position: absolute;
+  left: 913px;
+  right: 250px;
+  top: 460px;
+  bottom: 435;
+  text-align: center;
+  background-color: #04C35C;
+  font-size: 20px;
+color: white;
+  border-radius: 5px;
+}
+.sign {
+  position: absolute;
+  left: 913px;
+  right: 250px;
+  top: 500px;
+  bottom: 435;
+  text-align: center;
+  padding: 15px 32px;
+  border-radius: 5px;
+  background-color: #2D3748;
+  color: white ;
+}
+.join {
+  position: absolute;
+  top: 435;
+  width: 292px;
+  height: 535px;
+  left: 913px;
+
+  top: 620px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+  /* identical to box height */
+
+  color: #616161;
+}
+.gridContainer {
+  display: flex;
+  flex-direction:row;
+  align-self: flex-start;
+  flex-wrap: wrap;
+  
+}
